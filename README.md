@@ -1,9 +1,8 @@
-# Notas:
+# Notes
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+Small ticket application using sockets
 
-Recuerden que deben de reconstruir los módulos de node con el comando
-
+For install use
 ```
 npm install
 ```
